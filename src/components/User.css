@@ -1,0 +1,25 @@
+.user-card {
+    border: 2px solid #e1dada;
+    padding: 20px;
+    border-radius: 10px;
+    width: 70%;
+    font-family: fantasy;
+    font-size:20px;
+    margin-left: 150px;
+    margin-top: 15px;
+    margin-right: 50%;
+    color: whitesmoke;
+    align-items: center;
+}
+
+.user-card h2 {
+    color: #dedee1;
+}
+
+
+
+
+.address h3,
+.company h3 {
+    color: #101111;
+}
